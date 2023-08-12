@@ -10,7 +10,7 @@
     pip install plyfile
     pip install numpy
 ```   
-3. Download dataset and prepare pose files. We used PCN dataset. We provide pose files that we use.
+3. Download dataset and prepare pose files. We used PCN dataset. We provide [pose files](https://drive.google.com/file/d/1c8vfqG7B99nBhunI9au7kT1R6OE9Ar-W/view?usp=sharing) that we use.
 
 4. Run partial point cloud generator code.
 ```
